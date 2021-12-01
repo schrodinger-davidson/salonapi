@@ -9,6 +9,9 @@
 	},
 	"author": "korir",
 	"license": "ISC",
+	"engines": {
+		"node": "14.x"
+	  },
 	"dependencies": {
     "@google-cloud/storage": "^3.0.2",
     "firebase": "^6.2.4",
